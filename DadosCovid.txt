@@ -1,0 +1,7 @@
+Caro Professor, 
+o arquivo é muito grande para Commit nessa plataforma;
+enviarei o trabalho completo pelo canvas,
+mas caso deseje consulta o git, basta usar qualquer arquivo com o nome "DadosCovid"
+o mesmo nome desse arquivo. 
+O escrevi a mesma coisa no README
+Mas criei esse arquivo como exemplo para o nome e porque o java da erro. 
